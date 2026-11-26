@@ -1,4 +1,4 @@
-public class second_largest{ 
+public class second_largests{ 
     public static void main(String[] args){
          int[] arr = {10, 25, 5, 40, 30};
 
